@@ -24,10 +24,7 @@
 </p>
 
 <p align="center">
-  Passionate Front-end Engineer skilled in React, Next.js, and Node.js. Thrives
-  in fast-paced environments, excels in teamwork, and loves building clean,
-  functional, and delightful web experiences. Eager to collaborate on creative
-  projects and push the boundaries of modern front-end development.
+Hey there! I’m a Front-End Developer who loves working with React, Next.js, and Node.js. I thrive in fast-paced settings and enjoy creating clean, fun web experiences. Excited to team up on cool front-end projects—let’s build something awesome together!
 </p>
 
 ---
@@ -72,9 +69,10 @@
 </p>
 
 ### 🛠️ Tech Stack
+
 #### 💻 Frontend
 
-<p>
+<p align="center">
   <img
     alt="html"
     width="40px"
@@ -124,7 +122,7 @@
 
 #### 🛢️ Backend
 
-<p>
+<p align="center">
   <img
     alt="nodejs"
     width="40px"
@@ -149,7 +147,7 @@
 
 #### 🛠️ Tools
 
-<p>
+<p align="center">
   <img
     alt="git"
     width="40px"
@@ -166,6 +164,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
 </p>
+
 ### 📈 GitHub Stats
 
 <p align="center">
