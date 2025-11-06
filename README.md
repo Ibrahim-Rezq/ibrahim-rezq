@@ -1,4 +1,11 @@
-<div style="display: flex; align-items: center; justify-content: space-between">
+<div
+  style="
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+  "
+>
   <div>
     <h3>
       Hello&nbsp;
@@ -172,9 +179,7 @@
 </p>
 --- ### 📈 GitHub Stats
 
-<div
-  style="display: flex; flex-direction: column; justify-content: space-between"
->
+<div style="display: flex; justify-content: space-between">
   <p align="center">
     <a href="https://github.com/Ibrahim-Rezq">
       <img
