@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   Passionate Front-end Engineer skilled in React, Next.js, and Node.js. Thrives
   in fast-paced environments, excels in teamwork, and loves building clean,
@@ -53,7 +51,7 @@
   <li>⚡ Programmer all day, every day</li>
 </ul>
 
---- ### 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-amin391" target="_blank">
@@ -73,7 +71,8 @@
   </a>
 </p>
 
---- ### 🛠️ Tech Stack #### 💻 Frontend
+### 🛠️ Tech Stack
+#### 💻 Frontend
 
 <p>
   <img
@@ -167,7 +166,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
 </p>
---- ### 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Ibrahim-Rezq">
