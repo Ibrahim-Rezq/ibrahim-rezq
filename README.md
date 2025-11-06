@@ -1,14 +1,21 @@
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <div>
 <h3 align="center">
   Hello&nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   &nbsp;Welcome to <strong>Ibrahim Rezq's</strong> (Me) Profile!
 </h3>
-
-<p align="center">
+    <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7A3&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;JavaScript+(Next.js)+Developer;A+Passionate+Learner+and+Creator" alt="Typing SVG" />
   </a>
 </p>
+
+  </div>
+<p align="center">
+    <img width="350px"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9nbzh4eWU5dTZpc3R3aHo2MzJienR2Nmo3a3dwc2FzbTVndjVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Typing SVG" />
+</p>
+</div>
 
 ---
 
