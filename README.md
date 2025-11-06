@@ -1,37 +1,27 @@
-<div
-  style="
-    display: flex;
-    align-content: center;
-    align-items: center;
-    justify-content: space-between;
-  "
->
-  <div>
-    <h3>
-      Hello&nbsp;
-      <img
-        src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="28"
-      />
-      &nbsp;Welcome to <strong>Ibrahim Rezq's</strong> (Me) Profile!
-    </h3>
-    <p>
-      <a href="https://git.io/typing-svg">
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7A3&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;JavaScript+(Next.js)+Developer;A+Passionate+Learner+and+Creator"
-          alt="Typing SVG"
-        />
-      </a>
-    </p>
-  </div>
-  <p>
+<p align="center">
+  <img
+    style="max-width: 350px"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9nbzh4eWU5dTZpc3R3aHo2MzJienR2Nmo3a3dwc2FzbTVndjVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
+    alt="Typing SVG"
+  />
+</p>
+
+<h3 align="center">
+  Hello&nbsp;
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+  &nbsp;Welcome to <strong>Ibrahim Rezq's</strong> (Me) Profile!
+</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
     <img
-      style="max-width: 350px"
-      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9nbzh4eWU5dTZpc3R3aHo2MzJienR2Nmo3a3dwc2FzbTVndjVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7A3&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;JavaScript+(Next.js)+Developer;A+Passionate+Learner+and+Creator"
       alt="Typing SVG"
     />
-  </p>
-</div>
+  </a>
+</p>
 
 ---
 
@@ -179,24 +169,22 @@
 </p>
 --- ### 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between">
-  <p align="center">
-    <a href="https://github.com/Ibrahim-Rezq">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Rezq&langs_count=10&title_color=33F7A3&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact"
-        alt="Top Languages"
-      />
-    </a>
-  </p>
-  <p align="center">
-    <a href="http://www.github.com/Ibrahim-Rezq">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Rezq&show_icons=true&count_private=true&title_color=33F7A3&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true"
-        alt="Ibrahim-Rezq's GitHub stats"
-      />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/Ibrahim-Rezq">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Rezq&langs_count=10&title_color=33F7A3&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="http://www.github.com/Ibrahim-Rezq">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Rezq&show_icons=true&count_private=true&title_color=33F7A3&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true"
+      alt="Ibrahim-Rezq's GitHub stats"
+    />
+  </a>
+</p>
 
 ---
 
