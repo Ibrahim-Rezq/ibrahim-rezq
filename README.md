@@ -33,7 +33,7 @@ Hey there! I’m a Front-End Developer who loves working with React, Next.js, an
   <li>🌍 Living in <strong>Egypt</strong></li>
   <li>
     🖥 Check out my portfolio →
-    <a href="https://ibrahim-amin.vercel.app/" target="_blank"
+    <a href="https://ibrahim-rezq.vercel.app/" target="_blank"
       ><strong>My Portfolio</strong></a
     >
   </li>
